@@ -1,0 +1,13 @@
+[jenkins]
+10.2.0.4
+
+#[nginx]
+#<Nginx-Private-IP-Address>
+
+
+#[sonarqube]
+#<SonarQube-Private-IP-Address>
+
+
+#[artifact_repository]
+#<Artifact_repository-Private-IP-Address>
